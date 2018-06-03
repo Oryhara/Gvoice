@@ -1,0 +1,68 @@
+C:\Users\justin.jones\Desktop\GoogleVoice.NET\Google.Voice.Service\bin\Debug\Google.Voice.Service.dll
+C:\Users\justin.jones\Desktop\GoogleVoice.NET\Google.Voice.Service\bin\Debug\Google.Voice.Service.pdb
+C:\Users\justin.jones\Desktop\GoogleVoice.NET\Google.Voice.Service\bin\Debug\HtmlAgilityPack.dll
+C:\Users\justin.jones\Desktop\GoogleVoice.NET\Google.Voice.Service\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\Users\justin.jones\Desktop\GoogleVoice.NET\Google.Voice.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\justin.jones\Desktop\GoogleVoice.NET\Google.Voice.Service\obj\Debug\Google.Voice.Service.dll
+C:\Users\justin.jones\Desktop\GoogleVoice.NET\Google.Voice.Service\obj\Debug\Google.Voice.Service.pdb
+C:\Users\justin.jones\Desktop\GoogleVoice.NET\Google.Voice.Service\bin\Debug\Google.Voice.Service.XML
+C:\Users\Mat\Downloads\GoogleVoice v1.10918\Google.Voice.Service\bin\Debug\Google.Voice.Service.dll
+C:\Users\Mat\Downloads\GoogleVoice v1.10918\Google.Voice.Service\bin\Debug\Google.Voice.Service.pdb
+C:\Users\Mat\Downloads\GoogleVoice v1.10918\Google.Voice.Service\bin\Debug\Google.Voice.Service.XML
+C:\Users\Mat\Downloads\GoogleVoice v1.10918\Google.Voice.Service\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Mat\Downloads\GoogleVoice v1.10918\Google.Voice.Service\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\Users\Mat\Downloads\GoogleVoice v1.10918\Google.Voice.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mat\Downloads\GoogleVoice v1.10918\Google.Voice.Service\obj\Debug\Google.Voice.Service.dll
+C:\Users\Mat\Downloads\GoogleVoice v1.10918\Google.Voice.Service\obj\Debug\Google.Voice.Service.pdb
+C:\ShareDisk\TextMyBrain\Misc\GVoice\GoogleVoice v1.10922 - working UI\Google.Voice.Service\bin\Debug\Google.Voice.Service.dll
+C:\ShareDisk\TextMyBrain\Misc\GVoice\GoogleVoice v1.10922 - working UI\Google.Voice.Service\bin\Debug\Google.Voice.Service.pdb
+C:\ShareDisk\TextMyBrain\Misc\GVoice\GoogleVoice v1.10922 - working UI\Google.Voice.Service\bin\Debug\Google.Voice.Service.XML
+C:\ShareDisk\TextMyBrain\Misc\GVoice\GoogleVoice v1.10922 - working UI\Google.Voice.Service\bin\Debug\HtmlAgilityPack.dll
+C:\ShareDisk\TextMyBrain\Misc\GVoice\GoogleVoice v1.10922 - working UI\Google.Voice.Service\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\ShareDisk\TextMyBrain\Misc\GVoice\GoogleVoice v1.10922 - working UI\Google.Voice.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\ShareDisk\TextMyBrain\Misc\GVoice\GoogleVoice v1.10922 - working UI\Google.Voice.Service\obj\Debug\Google.Voice.Service.dll
+C:\ShareDisk\TextMyBrain\Misc\GVoice\GoogleVoice v1.10922 - working UI\Google.Voice.Service\obj\Debug\Google.Voice.Service.pdb
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10950\Google.Voice.Service\bin\Debug\Google.Voice.Service.dll
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10950\Google.Voice.Service\bin\Debug\Google.Voice.Service.pdb
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10950\Google.Voice.Service\bin\Debug\Google.Voice.Service.XML
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10950\Google.Voice.Service\bin\Debug\HtmlAgilityPack.dll
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10950\Google.Voice.Service\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10950\Google.Voice.Service\obj\Debug\Google.Voice.csprojResolveAssemblyReference.cache
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10950\Google.Voice.Service\obj\Debug\Google.Voice.Service.dll
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10950\Google.Voice.Service\obj\Debug\Google.Voice.Service.pdb
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10990\Google.Voice.Service\bin\Debug\Google.Voice.Service.dll
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10990\Google.Voice.Service\bin\Debug\Google.Voice.Service.pdb
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10990\Google.Voice.Service\bin\Debug\Google.Voice.Service.XML
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10990\Google.Voice.Service\bin\Debug\HtmlAgilityPack.dll
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10990\Google.Voice.Service\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10990\Google.Voice.Service\obj\Debug\Google.Voice.csprojResolveAssemblyReference.cache
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10990\Google.Voice.Service\obj\Debug\Google.Voice.Service.dll
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10990\Google.Voice.Service\obj\Debug\Google.Voice.Service.pdb
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\Google.Voice.Service\bin\Debug\Google.Voice.Service.dll
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\Google.Voice.Service\bin\Debug\Google.Voice.Service.pdb
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\Google.Voice.Service\bin\Debug\Google.Voice.Service.XML
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\Google.Voice.Service\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\Google.Voice.Service\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\Google.Voice.Service\obj\Debug\Google.Voice.csprojResolveAssemblyReference.cache
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\Google.Voice.Service\obj\Debug\Google.Voice.Service.dll
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\Google.Voice.Service\obj\Debug\Google.Voice.Service.pdb
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.11000\Google.Voice.Service\bin\Debug\Google.Voice.Service.dll
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.11000\Google.Voice.Service\bin\Debug\Google.Voice.Service.pdb
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.11000\Google.Voice.Service\bin\Debug\Google.Voice.Service.XML
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.11000\Google.Voice.Service\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.11000\Google.Voice.Service\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.11000\Google.Voice.Service\obj\Debug\Google.Voice.csprojResolveAssemblyReference.cache
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.11000\Google.Voice.Service\obj\Debug\Google.Voice.Service.dll
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.11000\Google.Voice.Service\obj\Debug\Google.Voice.Service.pdb
+C:\Users\chapman.baetzel\Documents\GoogleVoice v1.11000\GoogleVoice v1.11000\Google.Voice.Service\bin\Debug\Google.Voice.Service.dll
+C:\Users\chapman.baetzel\Documents\GoogleVoice v1.11000\GoogleVoice v1.11000\Google.Voice.Service\bin\Debug\Google.Voice.Service.pdb
+C:\Users\chapman.baetzel\Documents\GoogleVoice v1.11000\GoogleVoice v1.11000\Google.Voice.Service\bin\Debug\Google.Voice.Service.XML
+C:\Users\chapman.baetzel\Documents\GoogleVoice v1.11000\GoogleVoice v1.11000\Google.Voice.Service\bin\Debug\CommandLine.dll
+C:\Users\chapman.baetzel\Documents\GoogleVoice v1.11000\GoogleVoice v1.11000\Google.Voice.Service\bin\Debug\HtmlAgilityPack.dll
+C:\Users\chapman.baetzel\Documents\GoogleVoice v1.11000\GoogleVoice v1.11000\Google.Voice.Service\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\Users\chapman.baetzel\Documents\GoogleVoice v1.11000\GoogleVoice v1.11000\Google.Voice.Service\bin\Debug\CommandLine.xml
+C:\Users\chapman.baetzel\Documents\GoogleVoice v1.11000\GoogleVoice v1.11000\Google.Voice.Service\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\chapman.baetzel\Documents\GoogleVoice v1.11000\GoogleVoice v1.11000\Google.Voice.Service\bin\Debug\HtmlAgilityPack.xml
+C:\Users\chapman.baetzel\Documents\GoogleVoice v1.11000\GoogleVoice v1.11000\Google.Voice.Service\obj\Debug\Google.Voice.Service.dll
+C:\Users\chapman.baetzel\Documents\GoogleVoice v1.11000\GoogleVoice v1.11000\Google.Voice.Service\obj\Debug\Google.Voice.Service.pdb
+C:\Users\chapman.baetzel\Documents\GoogleVoice v1.11000\GoogleVoice v1.11000\Google.Voice.Service\obj\Debug\Google.Voice.csprojResolveAssemblyReference.cache

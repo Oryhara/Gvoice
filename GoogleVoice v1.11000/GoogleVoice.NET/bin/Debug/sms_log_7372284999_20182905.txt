@@ -1,0 +1,2 @@
+     Me:   .info     DavidVcore:   Model: VT400 SN: 010030016664340 .info [help|cell|gps|fw|vcore|ign|obd|battery|wifi]
+no response recieved for: 7372284999

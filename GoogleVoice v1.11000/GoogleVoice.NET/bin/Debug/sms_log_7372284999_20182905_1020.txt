@@ -1,0 +1,21 @@
+     Me:   .help     DavidVcore:   Commands: .help .info .packagelist .status
+     Me:   .info help     DavidVcore:   Model: VT400 SN: 010030016664340 .info [help|cell|gps|fw|vcore|ign|obd|battery|wifi]
+     Me:   .info cell     DavidVcore:   Model: VT400 SN: 010030016664340 IMEI: 352661083570419 SSI: -63 APN: 3 IP: 100.114.228.118 DNS: 198.224.157.135, 198.224.156.135
+     Me:   .info gps     DavidVcore:   Model: VT400 SN: 010030016664340 Last sample: 05/29/2018 15:22:32 (0.134477 seconds ago) Fix: Good Sats: 5 HDOP: 2.2 Lat: 30.3974510966212(more)     DavidVcore:   Lon: -97.7296212452424
+     Me:   .info fw     DavidVcore:   Model: VT400 SN: 010030016664340 SystemFw: v42.0.0.4 AppFw: vcore-1.47.0-verizon-R18_from_v42.0.0.4 Install Pending: Completed InstallType Received:(more)     DavidVcore:   2018-05-09T03:01:52 +00:00
+     Me:   .info vcore     DavidVcore:   Model: VT400 SN: 010030016664340 Server: 52.8.93.37 QueuedMsgs: 1 Start: 05/23/2018 22:52:27 LastTrans: 05/29/2018 15:22:39 LastAckRecv: 05/29/2018 15:20:37
+     Me:   .info ign     DavidVcore:   Model: VT400 SN: 010030016664340 IgnSource: Device IgnState: On Last State Change: 04/24/2018 05:01:28
+     Me:   .info obd     DavidVcore:   Model: VT400 SN: 010030016664340 Service State: OutOfService Last Update: 05/08/2018 18:25:21 VIN:  Module Type: vt400
+     Me:   .info battery     DavidVcore:   Model: VT400 SN: 010030016664340 Power Source: Vehicle Battery Present: False
+     Me:   .info sms     DavidVcore:   Model: VT400 SN: 010030016664340 .info [help|cell|gps|fw|vcore|ign|obd|battery|wifi]
+     Me:   .info wifi     DavidVcore:   Model: VT400 SN: 010030016664340 Wifi Enabled: True Wifi SSID: vCore-010030016664340
+     Me:   .info failure     DavidVcore:   Model: VT400 SN: 010030016664340 .info [help|cell|gps|fw|vcore|ign|obd|battery|wifi]
+no response recieved for: .info <invalid>
+no response recieved for: .info testing
+     Me:   .info &lt;blank&gt;     DavidVcore:   Model: VT400 SN: 010030016664340 .info [help|cell|gps|fw|vcore|ign|obd|battery|wifi]
+     Me:   .packageListPackage count: 5 mono_4.8.0.524-1_armv7l 1980-01-06 00:05:51Z telogis-vcore_1.0.0.0_noarch 2018-04-13 20:27:17Z verizon-config_1.47.66_noarch 2018-03-21((more)     DavidVcore:   Package count: 5 mono_4.8.0.524-1_armv7l 1980-01-06 00:05:51Z telogis-vcore_1.0.0.0_noarch 2018-04-13 20:27:17Z verizon-config_1.47.66_noarch 2018-03-21((more)
+     Me:   .status     DavidVcore:   SN: 010030016664340 IgnState: On 3 problems * GPS: No Fix * OBD: Vt400 bus not detected * Ign: No Off
+no response recieved for: .info c
+     Me:   .status c     DavidVcore:   SN: 010030016664340 IgnState: On 3 problems * No GPS fix with quality NoFixOn and 2 satellites. * OBD is Out Of Service: Vt400 bus not detected(more)(more)     DavidVcore:   * Missing ignition Off state.
+     Me:   .devhelp     DavidVcore:   Commands: .help .info .getLogs (&lt;all ! vcore ! careader ! user2 ! syslog&gt; (ftpHost(:port) userName password)) .packagelist .reboot .setApn apn(more)(more)     DavidVcore:   .sh scriptName (script arguments) .shutdown .status .syslog .toolbelt [durationMinutes]
+     Me:   .getlogs     DavidVcore:   Sent log file 010030016664340.20180529-1535.tar.gz

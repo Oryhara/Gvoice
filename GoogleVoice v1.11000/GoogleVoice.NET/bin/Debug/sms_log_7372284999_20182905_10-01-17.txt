@@ -1,0 +1,4 @@
+     Me:   .help     DavidVcore:   Commands: .help .info .packagelist .status
+no response recieved for: .info
+no response recieved for: help:.info
+no response recieved for: cell

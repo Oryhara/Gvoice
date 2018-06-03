@@ -1,0 +1,6 @@
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\Google.Voice.Service\bin\Release\Google.Voice.Service.dll
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\Google.Voice.Service\bin\Release\Google.Voice.Service.pdb
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\Google.Voice.Service\bin\Release\HtmlAgilityPack.dll
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\Google.Voice.Service\bin\Release\Newtonsoft.Json.Net35.dll
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\Google.Voice.Service\obj\Release\Google.Voice.Service.dll
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\Google.Voice.Service\obj\Release\Google.Voice.Service.pdb

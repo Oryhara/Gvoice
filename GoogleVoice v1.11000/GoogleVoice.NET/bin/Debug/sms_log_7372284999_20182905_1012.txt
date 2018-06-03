@@ -1,0 +1,3 @@
+     Me:   .help     DavidVcore:   Commands: .help .info .packagelist .status
+     Me:   .info help     DavidVcore:   Model: VT400 SN: 010030016664340 .info [help|cell|gps|fw|vcore|ign|obd|battery|wifi]
+     Me:   .info cell     DavidVcore:   Model: VT400 SN: 010030016664340 IMEI: 352661083570419 SSI: -70 APN: 3 IP: 100.114.228.118 DNS: 198.224.157.135, 198.224.156.135

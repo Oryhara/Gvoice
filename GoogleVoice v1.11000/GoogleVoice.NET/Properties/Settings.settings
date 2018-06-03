@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GoogleVoice.NET.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="email" Type="System.String" Scope="User">
+      <Value Profile="(Default)">smstestgvoice@gmail.com</Value>
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sms10101001</Value>
+    </Setting>
+    <Setting Name="rnr_se" Type="System.String" Scope="User">
+      <Value Profile="(Default)">cwYQyEM1NeIONNllaojVmbDtuog=</Value>
+    </Setting>
+    <Setting Name="destination" Type="System.String" Scope="User">
+      <Value Profile="(Default)">17372284999</Value>
+    </Setting>
+    <Setting Name="TRusername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">chapman.baetzel@telogis.com</Value>
+    </Setting>
+    <Setting Name="TRAPIkey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">bQMRHYUHxASHph9gRbKF-BdnWxnI6SG4WgWcyETsv</Value>
+    </Setting>
+    <Setting Name="TRURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://testrail.rad.local</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

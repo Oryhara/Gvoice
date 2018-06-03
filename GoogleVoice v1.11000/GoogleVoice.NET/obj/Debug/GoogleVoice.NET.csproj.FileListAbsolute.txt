@@ -1,0 +1,156 @@
+C:\Users\Justin\Advanced Programming\GoogleVoice.NET\GoogleVoice.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Justin\Advanced Programming\GoogleVoice.NET\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.FormLogin.resources
+C:\Users\Justin\Advanced Programming\GoogleVoice.NET\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.Properties.Resources.resources
+C:\Users\Justin\Advanced Programming\GoogleVoice.NET\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.csproj.GenerateResource.Cache
+C:\Users\Justin\Advanced Programming\GoogleVoice.NET\GoogleVoice.NET\bin\Debug\GoogleVoice.NET.exe.config
+C:\Users\Justin\Advanced Programming\GoogleVoice.NET\GoogleVoice.NET\bin\Debug\GoogleVoice.NET.exe
+C:\Users\Justin\Advanced Programming\GoogleVoice.NET\GoogleVoice.NET\bin\Debug\GoogleVoice.NET.pdb
+C:\Users\Justin\Advanced Programming\GoogleVoice.NET\GoogleVoice.NET\bin\Debug\Google.Voice.dll
+C:\Users\Justin\Advanced Programming\GoogleVoice.NET\GoogleVoice.NET\bin\Debug\Google.Voice.pdb
+C:\Users\Justin\Advanced Programming\GoogleVoice.NET\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.exe
+C:\Users\Justin\Advanced Programming\GoogleVoice.NET\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.pdb
+C:\Users\Justin\Advanced Programming\GoogleVoice.NET\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.FormControls.resources
+C:\Documents and Settings\jonesje2\My Documents\Advanced Programming\GoogleVoice.NET\GoogleVoice.NET\bin\Debug\GoogleVoice.NET.exe.config
+C:\Documents and Settings\jonesje2\My Documents\Advanced Programming\GoogleVoice.NET\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.exe
+C:\Documents and Settings\jonesje2\My Documents\Advanced Programming\GoogleVoice.NET\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.pdb
+C:\Documents and Settings\jonesje2\My Documents\Advanced Programming\GoogleVoice.NET\GoogleVoice.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jonesje2\My Documents\Advanced Programming\GoogleVoice.NET\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.FormControls.resources
+C:\Documents and Settings\jonesje2\My Documents\Advanced Programming\GoogleVoice.NET\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.FormLogin.resources
+C:\Documents and Settings\jonesje2\My Documents\Advanced Programming\GoogleVoice.NET\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.Properties.Resources.resources
+C:\Documents and Settings\jonesje2\My Documents\Advanced Programming\GoogleVoice.NET\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.csproj.GenerateResource.Cache
+C:\Documents and Settings\jonesje2\My Documents\Advanced Programming\GoogleVoice.NET\GoogleVoice.NET\bin\Debug\GoogleVoice.NET.exe
+C:\Documents and Settings\jonesje2\My Documents\Advanced Programming\GoogleVoice.NET\GoogleVoice.NET\bin\Debug\GoogleVoice.NET.pdb
+C:\Documents and Settings\jonesje2\My Documents\Advanced Programming\GoogleVoice.NET\GoogleVoice.NET\bin\Debug\Google.Voice.dll
+C:\Documents and Settings\jonesje2\My Documents\Advanced Programming\GoogleVoice.NET\GoogleVoice.NET\bin\Debug\Google.Voice.pdb
+C:\Users\justin.jones\Desktop\GoogleVoice.NET\GoogleVoice.NET\bin\Debug\GoogleVoice.NET.exe.config
+C:\Users\justin.jones\Desktop\GoogleVoice.NET\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.exe
+C:\Users\justin.jones\Desktop\GoogleVoice.NET\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.pdb
+C:\Users\justin.jones\Desktop\GoogleVoice.NET\GoogleVoice.NET\bin\Debug\GoogleVoice.NET.exe
+C:\Users\justin.jones\Desktop\GoogleVoice.NET\GoogleVoice.NET\bin\Debug\GoogleVoice.NET.pdb
+C:\Users\justin.jones\Desktop\GoogleVoice.NET\GoogleVoice.NET\bin\Debug\Google.Voice.dll
+C:\Users\justin.jones\Desktop\GoogleVoice.NET\GoogleVoice.NET\bin\Debug\Google.Voice.pdb
+C:\Users\justin.jones\Desktop\GoogleVoice.NET\GoogleVoice.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\justin.jones\Desktop\GoogleVoice.NET\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.FormControls.resources
+C:\Users\justin.jones\Desktop\GoogleVoice.NET\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.FormLogin.resources
+C:\Users\justin.jones\Desktop\GoogleVoice.NET\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.Properties.Resources.resources
+C:\Users\justin.jones\Desktop\GoogleVoice.NET\GoogleVoice.NET\obj\Debug\ResGen.read.1.tlog
+C:\Users\justin.jones\Desktop\GoogleVoice.NET\GoogleVoice.NET\obj\Debug\ResGen.write.1.tlog
+C:\Users\justin.jones\Desktop\GoogleVoice.NET\GoogleVoice.NET\bin\Debug\Google.Voice.xml
+C:\Users\justin.jones\Desktop\GoogleVoice.NET\GoogleVoice.NET\bin\Debug\Google.Voice.Service.dll
+C:\Users\justin.jones\Desktop\GoogleVoice.NET\GoogleVoice.NET\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\Users\justin.jones\Desktop\GoogleVoice.NET\GoogleVoice.NET\bin\Debug\Google.Voice.Service.pdb
+C:\Users\justin.jones\Desktop\GoogleVoice.NET\GoogleVoice.NET\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Mat\Downloads\GoogleVoice v1.10922\GoogleVoice.NET\bin\Debug\GoogleVoice.NET.exe.config
+C:\Users\Mat\Downloads\GoogleVoice v1.10922\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.exe
+C:\Users\Mat\Downloads\GoogleVoice v1.10922\GoogleVoice.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mat\Downloads\GoogleVoice v1.10922\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.FormControls.resources
+C:\Users\Mat\Downloads\GoogleVoice v1.10922\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.FormLogin.resources
+C:\Users\Mat\Downloads\GoogleVoice v1.10922\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.Properties.Resources.resources
+C:\Users\Mat\Downloads\GoogleVoice v1.10922\GoogleVoice.NET\obj\Debug\ResGen.read.1.tlog
+C:\Users\Mat\Downloads\GoogleVoice v1.10922\GoogleVoice.NET\obj\Debug\ResGen.write.1.tlog
+C:\Users\Mat\Downloads\GoogleVoice v1.10922\GoogleVoice.NET\bin\Debug\GoogleVoice.NET.exe
+C:\Users\Mat\Downloads\GoogleVoice v1.10922\GoogleVoice.NET\bin\Debug\GoogleVoice.NET.pdb
+C:\Users\Mat\Downloads\GoogleVoice v1.10922\GoogleVoice.NET\bin\Debug\Google.Voice.Service.dll
+C:\Users\Mat\Downloads\GoogleVoice v1.10922\GoogleVoice.NET\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Mat\Downloads\GoogleVoice v1.10922\GoogleVoice.NET\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\Users\Mat\Downloads\GoogleVoice v1.10922\GoogleVoice.NET\bin\Debug\Google.Voice.Service.pdb
+C:\Users\Mat\Downloads\GoogleVoice v1.10922\GoogleVoice.NET\bin\Debug\Google.Voice.Service.xml
+C:\Users\Mat\Downloads\GoogleVoice v1.10922\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.pdb
+C:\ShareDisk\TextMyBrain\Misc\GVoice\GoogleVoice v1.10922 - working UI\GoogleVoice.NET\bin\Debug\GoogleVoice.NET.exe.config
+C:\ShareDisk\TextMyBrain\Misc\GVoice\GoogleVoice v1.10922 - working UI\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.exe
+C:\ShareDisk\TextMyBrain\Misc\GVoice\GoogleVoice v1.10922 - working UI\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.pdb
+C:\ShareDisk\TextMyBrain\Misc\GVoice\GoogleVoice v1.10922 - working UI\GoogleVoice.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\ShareDisk\TextMyBrain\Misc\GVoice\GoogleVoice v1.10922 - working UI\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.FormControls.resources
+C:\ShareDisk\TextMyBrain\Misc\GVoice\GoogleVoice v1.10922 - working UI\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.FormLogin.resources
+C:\ShareDisk\TextMyBrain\Misc\GVoice\GoogleVoice v1.10922 - working UI\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.Properties.Resources.resources
+C:\ShareDisk\TextMyBrain\Misc\GVoice\GoogleVoice v1.10922 - working UI\GoogleVoice.NET\obj\Debug\ResGen.read.1.tlog
+C:\ShareDisk\TextMyBrain\Misc\GVoice\GoogleVoice v1.10922 - working UI\GoogleVoice.NET\obj\Debug\ResGen.write.1.tlog
+C:\ShareDisk\TextMyBrain\Misc\GVoice\GoogleVoice v1.10922 - working UI\GoogleVoice.NET\bin\Debug\GoogleVoice.NET.exe
+C:\ShareDisk\TextMyBrain\Misc\GVoice\GoogleVoice v1.10922 - working UI\GoogleVoice.NET\bin\Debug\Google.Voice.Service.dll
+C:\ShareDisk\TextMyBrain\Misc\GVoice\GoogleVoice v1.10922 - working UI\GoogleVoice.NET\bin\Debug\HtmlAgilityPack.dll
+C:\ShareDisk\TextMyBrain\Misc\GVoice\GoogleVoice v1.10922 - working UI\GoogleVoice.NET\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\ShareDisk\TextMyBrain\Misc\GVoice\GoogleVoice v1.10922 - working UI\GoogleVoice.NET\bin\Debug\Google.Voice.Service.pdb
+C:\ShareDisk\TextMyBrain\Misc\GVoice\GoogleVoice v1.10922 - working UI\GoogleVoice.NET\bin\Debug\Google.Voice.Service.xml
+C:\ShareDisk\TextMyBrain\Misc\GVoice\GoogleVoice v1.10922 - working UI\GoogleVoice.NET\bin\Debug\GoogleVoice.NET.pdb
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10950\GoogleVoice.NET\bin\Debug\GoogleVoice.NET.exe.config
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10950\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.exe
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10950\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.pdb
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10950\GoogleVoice.NET\bin\Debug\GoogleVoice.NET.exe
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10950\GoogleVoice.NET\bin\Debug\GoogleVoice.NET.pdb
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10950\GoogleVoice.NET\bin\Debug\Google.Voice.Service.dll
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10950\GoogleVoice.NET\bin\Debug\HtmlAgilityPack.dll
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10950\GoogleVoice.NET\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10950\GoogleVoice.NET\bin\Debug\Google.Voice.Service.pdb
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10950\GoogleVoice.NET\bin\Debug\Google.Voice.Service.xml
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10950\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.csprojResolveAssemblyReference.cache
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10950\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.FormControls.resources
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10950\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.FormLogin.resources
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10950\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.Properties.Resources.resources
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10950\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.csproj.GenerateResource.Cache
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\bin\Debug\GoogleVoice.NET.exe.config
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.exe
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.pdb
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\bin\Debug\GoogleVoice.NET.exe
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\bin\Debug\GoogleVoice.NET.pdb
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\bin\Debug\Google.Voice.Service.dll
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\bin\Debug\HtmlAgilityPack.dll
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\bin\Debug\Google.Voice.Service.pdb
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\bin\Debug\Google.Voice.Service.xml
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.csprojResolveAssemblyReference.cache
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.FormControls.resources
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.FormLogin.resources
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.Properties.Resources.resources
+C:\ShareDisk\Programming\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.csproj.GenerateResource.Cache
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\bin\Debug\GoogleVoice.NET.exe.config
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.exe
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.pdb
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\bin\Debug\GoogleVoice.NET.exe
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\bin\Debug\GoogleVoice.NET.pdb
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\bin\Debug\Google.Voice.Service.dll
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\bin\Debug\Google.Voice.Service.pdb
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\bin\Debug\Google.Voice.Service.xml
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.csprojResolveAssemblyReference.cache
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.FormControls.resources
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.FormLogin.resources
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.Properties.Resources.resources
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.csproj.GenerateResource.Cache
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.11000\GoogleVoice.NET\bin\Debug\GoogleVoice.NET.exe.config
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.11000\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.exe
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.11000\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.pdb
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.11000\GoogleVoice.NET\bin\Debug\GoogleVoice.NET.exe
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.11000\GoogleVoice.NET\bin\Debug\GoogleVoice.NET.pdb
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.11000\GoogleVoice.NET\bin\Debug\Google.Voice.Service.dll
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.11000\GoogleVoice.NET\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.11000\GoogleVoice.NET\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.11000\GoogleVoice.NET\bin\Debug\Google.Voice.Service.pdb
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.11000\GoogleVoice.NET\bin\Debug\Google.Voice.Service.xml
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.11000\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.csprojResolveAssemblyReference.cache
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.11000\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.FormControls.resources
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.11000\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.FormLogin.resources
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.11000\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.Properties.Resources.resources
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.11000\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.csproj.GenerateResource.Cache
+C:\Users\chapman.baetzel\Documents\GoogleVoice v1.11000\GoogleVoice v1.11000\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.csprojResolveAssemblyReference.cache
+C:\Users\chapman.baetzel\Documents\GoogleVoice v1.11000\GoogleVoice v1.11000\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.FormControls.resources
+C:\Users\chapman.baetzel\Documents\GoogleVoice v1.11000\GoogleVoice v1.11000\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.FormLogin.resources
+C:\Users\chapman.baetzel\Documents\GoogleVoice v1.11000\GoogleVoice v1.11000\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.Properties.Resources.resources
+C:\Users\chapman.baetzel\Documents\GoogleVoice v1.11000\GoogleVoice v1.11000\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.SMSTesterGoogleVoice.resources
+C:\Users\chapman.baetzel\Documents\GoogleVoice v1.11000\GoogleVoice v1.11000\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.csproj.GenerateResource.Cache
+C:\Users\chapman.baetzel\Documents\GoogleVoice v1.11000\GoogleVoice v1.11000\GoogleVoice.NET\bin\Debug\GoogleVoice.NET.exe.config
+C:\Users\chapman.baetzel\Documents\GoogleVoice v1.11000\GoogleVoice v1.11000\GoogleVoice.NET\bin\Debug\GoogleVoice.NET.exe
+C:\Users\chapman.baetzel\Documents\GoogleVoice v1.11000\GoogleVoice v1.11000\GoogleVoice.NET\bin\Debug\GoogleVoice.NET.pdb
+C:\Users\chapman.baetzel\Documents\GoogleVoice v1.11000\GoogleVoice v1.11000\GoogleVoice.NET\bin\Debug\Google.Voice.Service.dll
+C:\Users\chapman.baetzel\Documents\GoogleVoice v1.11000\GoogleVoice v1.11000\GoogleVoice.NET\bin\Debug\HtmlAgilityPack.dll
+C:\Users\chapman.baetzel\Documents\GoogleVoice v1.11000\GoogleVoice v1.11000\GoogleVoice.NET\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\Users\chapman.baetzel\Documents\GoogleVoice v1.11000\GoogleVoice v1.11000\GoogleVoice.NET\bin\Debug\Google.Voice.Service.pdb
+C:\Users\chapman.baetzel\Documents\GoogleVoice v1.11000\GoogleVoice v1.11000\GoogleVoice.NET\bin\Debug\Google.Voice.Service.xml
+C:\Users\chapman.baetzel\Documents\GoogleVoice v1.11000\GoogleVoice v1.11000\GoogleVoice.NET\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\chapman.baetzel\Documents\GoogleVoice v1.11000\GoogleVoice v1.11000\GoogleVoice.NET\bin\Debug\HtmlAgilityPack.xml
+C:\Users\chapman.baetzel\Documents\GoogleVoice v1.11000\GoogleVoice v1.11000\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.exe
+C:\Users\chapman.baetzel\Documents\GoogleVoice v1.11000\GoogleVoice v1.11000\GoogleVoice.NET\obj\Debug\GoogleVoice.NET.pdb
+C:\Users\chapman.baetzel\Documents\GoogleVoice v1.11000\GoogleVoice v1.11000\GoogleVoice.NET\bin\Debug\CommandLine.dll
+C:\Users\chapman.baetzel\Documents\GoogleVoice v1.11000\GoogleVoice v1.11000\GoogleVoice.NET\bin\Debug\CommandLine.xml
+C:\Users\chapman.baetzel\Documents\GoogleVoice v1.11000\GoogleVoice v1.11000\GoogleVoice.NET\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chapman.baetzel\Documents\GoogleVoice v1.11000\GoogleVoice v1.11000\GoogleVoice.NET\bin\Debug\Newtonsoft.Json.xml

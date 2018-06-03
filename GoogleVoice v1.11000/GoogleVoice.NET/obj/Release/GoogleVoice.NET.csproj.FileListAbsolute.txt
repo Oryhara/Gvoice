@@ -1,0 +1,14 @@
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\bin\Release\GoogleVoice.NET.exe.config
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\bin\Release\GoogleVoice.NET.exe
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\bin\Release\GoogleVoice.NET.pdb
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\bin\Release\Google.Voice.Service.dll
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\bin\Release\Newtonsoft.Json.Net35.dll
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\bin\Release\HtmlAgilityPack.dll
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\bin\Release\Google.Voice.Service.pdb
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\obj\Release\GoogleVoice.NET.csprojResolveAssemblyReference.cache
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\obj\Release\GoogleVoice.NET.FormControls.resources
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\obj\Release\GoogleVoice.NET.FormLogin.resources
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\obj\Release\GoogleVoice.NET.Properties.Resources.resources
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\obj\Release\GoogleVoice.NET.csproj.GenerateResource.Cache
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\obj\Release\GoogleVoice.NET.exe
+C:\Users\Torr\Documents\TextMyBrain\Misc\GVoice\GoogleVoice v1.10990\GoogleVoice.NET\obj\Release\GoogleVoice.NET.pdb

@@ -1,0 +1,7 @@
+C:\Users\justin.jones\Desktop\GoogleVoice.NET\Google.Voice.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\justin.jones\Desktop\GoogleVoice.NET\Google.Voice.Service\bin\Debug\Google.Voice.Service.dll
+C:\Users\justin.jones\Desktop\GoogleVoice.NET\Google.Voice.Service\bin\Debug\Google.Voice.Service.pdb
+C:\Users\justin.jones\Desktop\GoogleVoice.NET\Google.Voice.Service\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\Users\justin.jones\Desktop\GoogleVoice.NET\Google.Voice.Service\obj\Debug\Google.Voice.Service.dll
+C:\Users\justin.jones\Desktop\GoogleVoice.NET\Google.Voice.Service\obj\Debug\Google.Voice.Service.pdb
+C:\Users\justin.jones\Desktop\GoogleVoice.NET\Google.Voice.Service\bin\Debug\HtmlAgilityPack.dll
